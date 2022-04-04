@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- :memo: Interests: Digitalization, streamlining, user experience, system optimization
+- :computer: Currently learning Python at the University of Oslo :woman_student:
+- :earth_americas: Fluent in English, Spanish and Norwegian. 
+- :compass: Good understanding of French, Portuguese, Swedish and Danish
+
 <!--
 **mayalund/mayalund** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
